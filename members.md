@@ -1,2 +1,2 @@
-# Surabhi Lata
+# Alt-Surabhi Lata
 # Structure Based Drug Design
