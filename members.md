@@ -1,2 +1,2 @@
-1. Surabhi Lata
+# Surabhi Lata
 # Structure Based Drug Design
